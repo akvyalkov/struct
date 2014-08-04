@@ -3,6 +3,10 @@ package structurizer;
 /**
  * Created by i on 31.07.2014.
  */
+
+/**
+ * Действие, отображающее зависимость.
+ */
 public class Action1 {
 
     public Action1() {
